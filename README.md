@@ -1,7 +1,7 @@
 # Option-prices
 Simple app to valuate price of options. I write this application as part of my Quantum Scholarship program.
 
-#Supported products
+# Supported products
 - European option (Black-Sholes model)
 - American option (Binomial model)
 - Asian option (Monte Carlo)
