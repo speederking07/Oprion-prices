@@ -1,4 +1,4 @@
-# Option-prices
+# Option pricer
 Simple app to valuate price of options. I write this application as part of my Quantum Scholarship program.
 
 # Supported products
